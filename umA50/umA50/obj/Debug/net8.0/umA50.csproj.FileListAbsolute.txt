@@ -1,0 +1,14 @@
+C:\Users\PC-1\Desktop\10PIGabrielVieira\C#\umA50\umA50\bin\Debug\net8.0\umA50.exe
+C:\Users\PC-1\Desktop\10PIGabrielVieira\C#\umA50\umA50\bin\Debug\net8.0\umA50.deps.json
+C:\Users\PC-1\Desktop\10PIGabrielVieira\C#\umA50\umA50\bin\Debug\net8.0\umA50.runtimeconfig.json
+C:\Users\PC-1\Desktop\10PIGabrielVieira\C#\umA50\umA50\bin\Debug\net8.0\umA50.dll
+C:\Users\PC-1\Desktop\10PIGabrielVieira\C#\umA50\umA50\bin\Debug\net8.0\umA50.pdb
+C:\Users\PC-1\Desktop\10PIGabrielVieira\C#\umA50\umA50\obj\Debug\net8.0\umA50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\Desktop\10PIGabrielVieira\C#\umA50\umA50\obj\Debug\net8.0\umA50.AssemblyInfoInputs.cache
+C:\Users\PC-1\Desktop\10PIGabrielVieira\C#\umA50\umA50\obj\Debug\net8.0\umA50.AssemblyInfo.cs
+C:\Users\PC-1\Desktop\10PIGabrielVieira\C#\umA50\umA50\obj\Debug\net8.0\umA50.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\10PIGabrielVieira\C#\umA50\umA50\obj\Debug\net8.0\umA50.dll
+C:\Users\PC-1\Desktop\10PIGabrielVieira\C#\umA50\umA50\obj\Debug\net8.0\refint\umA50.dll
+C:\Users\PC-1\Desktop\10PIGabrielVieira\C#\umA50\umA50\obj\Debug\net8.0\umA50.pdb
+C:\Users\PC-1\Desktop\10PIGabrielVieira\C#\umA50\umA50\obj\Debug\net8.0\umA50.genruntimeconfig.cache
+C:\Users\PC-1\Desktop\10PIGabrielVieira\C#\umA50\umA50\obj\Debug\net8.0\ref\umA50.dll
